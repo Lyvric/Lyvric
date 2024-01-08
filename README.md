@@ -15,4 +15,4 @@
 - HTML & CSS (Learning)
 - Java Script (A little bit)
 
-[![wakatime](https://wakatime.com/badge/user/645a00c5-93b5-4e36-b5a1-6393d7992128.svg)](https://wakatime.com/@645a00c5-93b5-4e36-b5a1-6393d7992128)
+<a href="https://wakatime.com/@645a00c5-93b5-4e36-b5a1-6393d7992128"><img src="https://wakatime.com/badge/user/645a00c5-93b5-4e36-b5a1-6393d7992128.svg" alt="Total time coded since Aug 26 2023" /></a>
