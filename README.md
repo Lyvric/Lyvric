@@ -3,6 +3,7 @@
 ## Projects
 
 #### <a href="https://yvtils.net/yvtils/smp" target="_blank">YVtils SMP</a>
+#### <a href="https://yvtils.net/yvtils/mm" target="_blank">YVtils MultiMine</a>
 #### <a href="https://yvtils.net/yvtils/dc" target="_blank">YVtils DC</a>
 #### <a href="https://yvtils.net/yvtils/ac" target="_blank">YVtils AC</a>
 #### <a href="https://yvtils.net/shino" target="_blank">Shino-KI</a>
