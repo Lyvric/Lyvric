@@ -3,10 +3,6 @@
   <sub>Creator of <a href="https://yvtils.net/yvtils/smp" target="_blank">YVtils SMP</a> and other Minecraft plugins</sub>
 </h1>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=WolfiiYV&theme=github-light" alt="GitHub Activity Graph" />
-</p>
-
 ---
 
 ## 🚧 Projects
