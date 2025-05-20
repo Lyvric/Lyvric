@@ -1,23 +1,37 @@
-<h1 align="center">I'm <a href="https://yvtils.net" target="_blank">WolfiiYV</a>, creator of <a href="https://yvtils.net/yvtils/smp" target="_blank">YVtils SMP</a> and other Minecraft Plugins.</h1>
+<h1 align="center">
+  Hey, I'm <a href="https://yvtils.net" target="_blank">WolfiiYV</a> 🐺<br>
+  <sub>Creator of <a href="https://yvtils.net/yvtils/smp" target="_blank">YVtils SMP</a> and other Minecraft plugins</sub>
+</h1>
 
-## Projects
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=WolfiiYV&theme=github-light" alt="GitHub Activity Graph" />
+</p>
 
-#### <a href="https://yvtils.net/yvtils/smp" target="_blank">YVtils SMP</a>
-#### <a href="https://yvtils.net/yvtils/mm" target="_blank">YVtils MultiMine</a>
-#### <a href="https://yvtils.net/yvtils/dc" target="_blank">YVtils DC</a>
-#### <a href="https://yvtils.net/yvtils/ac" target="_blank">YVtils AC</a>
-#### <a href="https://yvtils.net/shino" target="_blank">Shino-KI</a>
-#### <a href="https://yvtils.net" target="_blank">YVtils Web</a>
+---
 
-## What I use(d):
+## 🚧 Projects
 
-- **Kotlin**
-- **Python**
-- **Go**
-- Java
-- HTML & CSS
-- Tailwind
-- TSX
-- Java Script
+Here are some of the things I've built or contributed to:
 
-[![wakatime](https://wakatime.com/badge/user/645a00c5-93b5-4e36-b5a1-6393d7992128.svg?style=for-the-badge)](https://wakatime.com/@645a00c5-93b5-4e36-b5a1-6393d7992128)
+- 🎮 [**YVtils SMP**](https://yvtils.net/yvtils/smp) – Core plugin for managing an SMP server with custom systems
+- ⛏️ [**YVtils MultiMine**](https://yvtils.net/yvtils/mm) – Combined Timber and VeinMiner functionality
+- 🔗 [**YVtils DC**](https://yvtils.net/yvtils/dc) – Discord ↔ Minecraft integration
+- 🌐 [**YVtils Web**](https://yvtils.net) – Frontend & backend for all YVtils services
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,python,go,java,html,css,tailwind,react,js" alt="Tech stack icons" />
+</div>
+
+I mainly work with **Kotlin**, **Python**, and **Go**, but I also have experience with various frontend technologies like **Tailwind CSS**, **HTML/CSS**, **TypeScript (TSX)**, and **JavaScript**.
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [yvtils.net](https://yvtils.net)
+- 💬 Discord: [YVtils Community](https://yvtils.net/discord)
+- ✉️ Mail: [contact@yvtils.net](mailto:contact@yvtils.net)
