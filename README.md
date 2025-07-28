@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey, I'm <a href="https://yvtils.net" target="_blank">WolfiiYV</a> 🐺<br>
+  Hey, I'm <a href="https://yvtils.net" target="_blank">Lyvric</a><br>
   <sub>Creator of <a href="https://yvtils.net/yvtils/smp" target="_blank">YVtils SMP</a> and other Minecraft plugins</sub>
 </h1>
 
